@@ -1,4 +1,4 @@
-# Python-Project-05 (Student Management System)
+# Student Management System
 
 <h3>Student Management System (SMS) </h3><br>
 A robust, CLI-based Student Management System built with Python. This project manages student records using JSON for persistent data storage, implementing full CRUD (Create, Read, Update, Delete) functionality with data validation.
